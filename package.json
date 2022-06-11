@@ -16,7 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy":"gh-pages -d build"
+    "deploy":"gh-pages -d build",
+     "predeploy":"npm run build"
 
   },
   "eslintConfig": {
@@ -41,5 +42,6 @@
     "gh-pages": "^4.0.0"
   },
 
-"homepage":
-}
+"homepage":"https://Manada123.github.io/curso-intro-react-42f02b9ca493fc3639dff4e14c987147859319e1"}
+
+
